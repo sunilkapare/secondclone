@@ -4,7 +4,10 @@ aget any
   {
     steps
     {
-     continuous downloads      
+     continuous downloads
+      {
+        echo "hello world"
+      }
     }
   }
 }
