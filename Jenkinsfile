@@ -10,7 +10,7 @@ aget any
       }
       continuous test
       {
-        mvn "test"
+        mvn ""
       }
     }
   }
