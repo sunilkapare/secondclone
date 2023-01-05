@@ -8,6 +8,10 @@ aget any
       {
         echo "hello world"
       }
+      continuous test
+      {
+        mvn test
+      }
     }
   }
 }
